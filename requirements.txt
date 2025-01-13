@@ -1,0 +1,6 @@
+ipykernel
+smolagents
+accelerate
+beautifulsoup4
+markdownify 
+sqlalchemy
